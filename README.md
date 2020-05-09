@@ -1,1 +1,1 @@
-Demonstrating basic algebra fundamentals using python data science 
+Demonstrating calculus, algrbra and probability for machine learning fundamentals using python
